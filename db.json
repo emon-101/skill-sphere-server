@@ -1,0 +1,118 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Complete Web Development Bootcamp",
+      "instructor": "John Doe",
+      "duration": "20 hours",
+      "rating": 4.8,
+      "level": "Beginner",
+      "description": "Learn full-stack web development from scratch using modern tools.",
+      "image": "https://i.ibb.co.com/wr77SRCg/Complete-Web-Development-Bootcamp.png",
+      "category": "Development",
+      "full_details": "This comprehensive bootcamp takes you from a complete beginner to a confident full-stack developer. You will master the fundamentals of the web, build responsive front-end interfaces, and develop robust back-end logic with databases.",
+      "curriculum": [
+        "Introduction to HTML5 and Semantic Tags",
+        "CSS3 Styling, Flexbox, and Grid",
+        "JavaScript Basics and DOM Manipulation",
+        "Node.js and Express Framework",
+        "Database Management with MongoDB"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "React JS Mastery",
+      "instructor": "Jane Smith",
+      "duration": "15 hours",
+      "rating": 4.7,
+      "level": "Intermediate",
+      "description": "Master modern React development with hooks and advanced patterns.",
+      "image": "https://i.ibb.co.com/example-react.png",
+      "category": "Frontend",
+      "full_details": "This course dives deep into React, teaching you how to build scalable and high-performance applications using real-world patterns.",
+      "curriculum": [
+        "React Fundamentals and JSX",
+        "State and Props Management",
+        "React Hooks",
+        "Routing with React Router",
+        "Build a React Project"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Next.js Full Guide",
+      "instructor": "Michael Lee",
+      "duration": "18 hours",
+      "rating": 4.9,
+      "level": "Intermediate",
+      "description": "Build production-ready apps using Next.js.",
+      "image": "https://i.ibb.co.com/example-next.png",
+      "category": "Frontend",
+      "full_details": "Learn server-side rendering, static generation, API routes, and deployment using Next.js.",
+      "curriculum": [
+        "Next.js Basics",
+        "Routing System",
+        "Server Components",
+        "API Routes",
+        "Deployment"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Node.js Backend Development",
+      "instructor": "David Kim",
+      "duration": "16 hours",
+      "rating": 4.6,
+      "level": "Intermediate",
+      "description": "Build scalable backend systems using Node.js.",
+      "image": "https://i.ibb.co.com/example-node.png",
+      "category": "Backend",
+      "full_details": "Learn how to create APIs, manage authentication, and structure backend applications.",
+      "curriculum": [
+        "Node.js Basics",
+        "Express.js",
+        "REST APIs",
+        "JWT Authentication",
+        "MongoDB Integration"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "UI/UX Design Fundamentals",
+      "instructor": "Emily Brown",
+      "duration": "12 hours",
+      "rating": 4.5,
+      "level": "Beginner",
+      "description": "Learn UI/UX design principles.",
+      "image": "https://i.ibb.co.com/example-uiux.png",
+      "category": "Design",
+      "full_details": "Understand user experience, wireframing, prototyping, and design tools like Figma.",
+      "curriculum": [
+        "UI/UX Basics",
+        "Color Theory",
+        "Wireframing",
+        "User Research",
+        "Figma Tools"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "JavaScript Advanced Concepts",
+      "instructor": "Chris Wilson",
+      "duration": "14 hours",
+      "rating": 4.8,
+      "level": "Advanced",
+      "description": "Deep dive into advanced JavaScript concepts.",
+      "image": "https://i.ibb.co.com/example-js.png",
+      "category": "Development",
+      "full_details": "Explore closures, prototypes, async programming, and performance optimization.",
+      "curriculum": [
+        "Closures",
+        "Prototypes",
+        "Async/Await",
+        "Event Loop",
+        "Performance Optimization"
+      ]
+    }
+  ]
+}
