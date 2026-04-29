@@ -8,7 +8,7 @@
       "rating": 4.8,
       "level": "Beginner",
       "description": "Learn full-stack web development from scratch using modern tools.",
-      "image": "https://i.ibb.co.com/wr77SRCg/Complete-Web-Development-Bootcamp.png",
+      "image": "https://i.ibb.co.com/q3dnD3FF/webdevelopment.jpg",
       "category": "Development",
       "full_details": "This comprehensive bootcamp takes you from a complete beginner to a confident full-stack developer. You will master the fundamentals of the web, build responsive front-end interfaces, and develop robust back-end logic with databases.",
       "curriculum": [
@@ -27,7 +27,7 @@
       "rating": 4.7,
       "level": "Intermediate",
       "description": "Master modern React development with hooks and advanced patterns.",
-      "image": "https://i.ibb.co.com/example-react.png",
+      "image": "https://i.ibb.co.com/0Rdd9fW3/react.jpg",
       "category": "Frontend",
       "full_details": "This course dives deep into React, teaching you how to build scalable and high-performance applications using real-world patterns.",
       "curriculum": [
@@ -46,7 +46,7 @@
       "rating": 4.9,
       "level": "Intermediate",
       "description": "Build production-ready apps using Next.js.",
-      "image": "https://i.ibb.co.com/example-next.png",
+      "image": "https://i.ibb.co.com/N6dg8vS1/nextjs.jpg",
       "category": "Frontend",
       "full_details": "Learn server-side rendering, static generation, API routes, and deployment using Next.js.",
       "curriculum": [
@@ -65,7 +65,7 @@
       "rating": 4.6,
       "level": "Intermediate",
       "description": "Build scalable backend systems using Node.js.",
-      "image": "https://i.ibb.co.com/example-node.png",
+      "image": "https://i.ibb.co.com/SXwsBmYZ/nodejs.jpg",
       "category": "Backend",
       "full_details": "Learn how to create APIs, manage authentication, and structure backend applications.",
       "curriculum": [
@@ -84,7 +84,7 @@
       "rating": 4.5,
       "level": "Beginner",
       "description": "Learn UI/UX design principles.",
-      "image": "https://i.ibb.co.com/example-uiux.png",
+      "image": "https://i.ibb.co.com/kVzLPS6z/uiux.jpg",
       "category": "Design",
       "full_details": "Understand user experience, wireframing, prototyping, and design tools like Figma.",
       "curriculum": [
@@ -103,7 +103,7 @@
       "rating": 4.8,
       "level": "Advanced",
       "description": "Deep dive into advanced JavaScript concepts.",
-      "image": "https://i.ibb.co.com/example-js.png",
+      "image": "https://i.ibb.co.com/1xyyL6m/java-Script.jpg",
       "category": "Development",
       "full_details": "Explore closures, prototypes, async programming, and performance optimization.",
       "curriculum": [
