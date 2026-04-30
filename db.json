@@ -114,5 +114,51 @@
         "Performance Optimization"
       ]
     }
+  ],
+   "instructors": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "title": "Full-Stack Developer",
+      "experience": "5+ years",
+      "students": 12000,
+      "courses": 3,
+      "rating": 4.8,
+      "bio": "John specializes in MERN stack development and has guided thousands of students to become job-ready developers.",
+      "image": "https://i.ibb.co.com/example-instructor1.png"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "title": "Frontend Engineer",
+      "experience": "4+ years",
+      "students": 9000,
+      "courses": 2,
+      "rating": 4.7,
+      "bio": "Jane focuses on modern React development and building scalable, high-performance user interfaces.",
+      "image": "https://i.ibb.co.com/example-instructor2.png"
+    },
+    {
+      "id": 3,
+      "name": "Michael Lee",
+      "title": "Next.js Specialist",
+      "experience": "6+ years",
+      "students": 15000,
+      "courses": 4,
+      "rating": 4.9,
+      "bio": "Michael teaches full-stack development using Next.js, covering everything from SSR to deployment.",
+      "image": "https://i.ibb.co.com/example-instructor3.png"
+    },
+    {
+      "id": 4,
+      "name": "Emily Brown",
+      "title": "UI/UX Designer",
+      "experience": "4+ years",
+      "students": 7000,
+      "courses": 1,
+      "rating": 4.5,
+      "bio": "Emily helps designers create intuitive, user-friendly interfaces using modern design principles.",
+      "image": "https://i.ibb.co.com/example-instructor4.png"
+    }
   ]
 }
