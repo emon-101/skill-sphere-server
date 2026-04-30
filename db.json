@@ -125,7 +125,7 @@
       "courses": 3,
       "rating": 4.8,
       "bio": "John specializes in MERN stack development and has guided thousands of students to become job-ready developers.",
-      "image": "https://i.ibb.co.com/JwRLY8rv/img1.jpg"
+      "image": "https://i.ibb.co.com/3ybxKRjT/img1.jpg"
     },
     {
       "id": 2,
@@ -136,7 +136,7 @@
       "courses": 2,
       "rating": 4.7,
       "bio": "Jane focuses on modern React development and building scalable, high-performance user interfaces.",
-      "image": "https://i.ibb.co.com/yvQdwnQ/img2.jpg"
+      "image": "https://i.ibb.co.com/QF9cnvyc/img2.jpg"
     },
     {
       "id": 3,
@@ -147,7 +147,7 @@
       "courses": 4,
       "rating": 4.9,
       "bio": "Michael teaches full-stack development using Next.js, covering everything from SSR to deployment.",
-      "image": "https://i.ibb.co.com/LDKpBLZS/img3.jpg"
+      "image": "https://i.ibb.co.com/DZYQWDp/img3.jpg"
     },
     {
       "id": 4,
@@ -158,7 +158,7 @@
       "courses": 1,
       "rating": 4.5,
       "bio": "Emily helps designers create intuitive, user-friendly interfaces using modern design principles.",
-      "image": "https://i.ibb.co.com/8nP7vgy1/img4.jpg"
+      "image": "https://i.ibb.co.com/cKDm9F8G/img4.jpg"
     }
   ]
 }
